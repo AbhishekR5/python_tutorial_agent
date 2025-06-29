@@ -3,9 +3,18 @@ import json
 import random
 
 # Load syllabus
-syllabus_path = Path("app/data/syllabus.json").mkdir(parents=True, exist_ok=True)
-with open(syllabus_path, "r") as f:
-    syllabus = json.load(f)
+syllabus_dir = Path("app/data")
+syllabus_dir.mkdir(parents=True, exist_ok=True)
+
+# Then use the file path
+syllabus_path = syllabus_dir / "syllabus.json"
+
+# Load file if it exists
+if syllabus_path.exists():
+    with open(syllabus_path, "r") as f:
+        syllabus = json.load(f)
+else:
+    syllabus = {}  
 
 # Concept alias mapping
 alias_map = {
@@ -252,8 +261,8 @@ def generate_daywise_exercise_file():
         print(f"📘 {day} -> {concepts}")
         all_day_exercises[day] = generate_exercises(concepts)
 
-    Path("/app/data").mkdir(parents=True, exist_ok=True)
-    output_path = "/app/data/day_wise_exercises.json"
+    output_path = Path("app/data/day_wise_exercises.json")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as f:
         json.dump(all_day_exercises, f, indent=2)
     return output_path
