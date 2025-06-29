@@ -3,7 +3,7 @@ import json
 import random
 
 # Load syllabus
-syllabus_path = Path("app/data/syllabus.json")
+syllabus_path = Path("app/data/syllabus.json").mkdir(parents=True, exist_ok=True)
 with open(syllabus_path, "r") as f:
     syllabus = json.load(f)
 
