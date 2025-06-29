@@ -1,0 +1,6 @@
+docker-compose build
+docker-compose up
+
+- optional
+docker-compose down --volumes --remove-orphans
+docker-compose build --no-cache

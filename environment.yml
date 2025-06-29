@@ -1,0 +1,19 @@
+name: python_tutorial_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - streamlit
+      - streamlit-option-menu
+      - langchain
+      - openai
+      - pydantic
+      - fastapi
+      - uvicorn
+      - tiktoken
+      - fastapi
+      - uvicorn
+

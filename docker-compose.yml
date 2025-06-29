@@ -1,0 +1,11 @@
+services:
+  tutorial_agent:
+    build: .
+    container_name: python_tutorial_agent
+    environment:
+      - APP_ROLE=streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    
