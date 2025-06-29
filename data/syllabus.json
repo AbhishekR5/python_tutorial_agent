@@ -1,0 +1,360 @@
+{
+  "Day 1": {
+    "topic": "Introduction to Python",
+    "objectives": [
+      "Understand what Python is and why it's used",
+      "Set up Python on your machine",
+      "Explore different IDEs (VS Code, Jupyter)",
+      "Write your first Python script"
+    ],
+    "concepts": [
+      "Syntax basics",
+      "Comments",
+      "Print function"
+    ]
+  },
+  "Day 2": {
+    "topic": "Variables and Data Types",
+    "objectives": [
+      "Learn about variables and naming rules",
+      "Understand different data types",
+      "Type conversion"
+    ],
+    "concepts": [
+      "int, float, str, bool",
+      "type() and isinstance()"
+    ]
+  },
+  "Day 3": {
+    "topic": "Operators in Python",
+    "objectives": [
+      "Use arithmetic operators",
+      "Understand comparison and logical operators",
+      "Learn assignment and bitwise operators"
+    ],
+    "concepts": [
+      "Arithmetic operators",
+      "Comparison operators",
+      "Logical operators"
+    ]
+  },
+  "Day 4": {
+    "topic": "Conditional Statements",
+    "objectives": [
+      "Understand `if`, `elif`, and `else` blocks",
+      "Implement basic decision-making logic"
+    ],
+    "concepts": [
+      "if-else statements",
+      "nested conditions",
+      "boolean expressions"
+    ]
+  },
+  "Day 5": {
+    "topic": "Loops in Python",
+    "objectives": [
+      "Use `for` and `while` loops",
+      "Understand loop control statements",
+      "Write nested loops"
+    ],
+    "concepts": [
+      "for loops",
+      "while loops",
+      "break and continue"
+    ]
+  },
+  "Day 6": {
+    "topic": "Working with Strings",
+    "objectives": [
+      "Create and manipulate strings",
+      "Use common string methods",
+      "Understand string formatting"
+    ],
+    "concepts": [
+      "string indexing",
+      "string slicing",
+      "format() and f-strings"
+    ]
+  },
+  "Day 7": {
+    "topic": "Lists and Tuples",
+    "objectives": [
+      "Create lists and tuples",
+      "Access and update elements",
+      "Use common list methods"
+    ],
+    "concepts": [
+      "list operations",
+      "tuple immutability",
+      "list methods"
+    ]
+  },
+  "Day 8": {
+    "topic": "Dictionaries and Sets",
+    "objectives": [
+      "Create and access dictionaries",
+      "Work with sets and their operations"
+    ],
+    "concepts": [
+      "dictionary keys and values",
+      "set operations",
+      "dictionary methods"
+    ]
+  },
+  "Day 9": {
+    "topic": "Functions in Python",
+    "objectives": [
+      "Define and call functions",
+      "Use arguments and return values",
+      "Understand scope and recursion"
+    ],
+    "concepts": [
+      "def and return",
+      "parameters and arguments",
+      "local vs global scope"
+    ]
+  },
+  "Day 10": {
+    "topic": "Lambda and Built-in Functions",
+    "objectives": [
+      "Use lambda expressions",
+      "Apply built-in functions like `map`, `filter`, and `reduce`"
+    ],
+    "concepts": [
+      "lambda",
+      "map, filter, reduce",
+      "any, all, zip"
+    ]
+  },
+  "Day 11": {
+    "topic": "Modules and Packages",
+    "objectives": [
+      "Import built-in and external modules",
+      "Organize code using packages"
+    ],
+    "concepts": [
+      "import, from-import",
+      "dir() and help()",
+      "pip basics"
+    ]
+  },
+  "Day 12": {
+    "topic": "File Handling",
+    "objectives": [
+      "Read and write text files",
+      "Use context manager (`with` statement)"
+    ],
+    "concepts": [
+      "open(), read(), write()",
+      "with statement",
+      "file modes"
+    ]
+  },
+  "Day 13": {
+    "topic": "Error Handling",
+    "objectives": [
+      "Handle exceptions using try-except",
+      "Understand exception hierarchy"
+    ],
+    "concepts": [
+      "try-except",
+      "finally",
+      "custom exceptions"
+    ]
+  },
+  "Day 14": {
+    "topic": "Comprehensions",
+    "objectives": [
+      "Use list, set, and dictionary comprehensions"
+    ],
+    "concepts": [
+      "list comprehension",
+      "dict and set comprehensions",
+      "nested comprehensions"
+    ]
+  },
+  "Day 15": {
+    "topic": "Working with Dates and Time",
+    "objectives": [
+      "Use `datetime` and `time` modules",
+      "Format date/time strings"
+    ],
+    "concepts": [
+      "datetime module",
+      "strftime and strptime",
+      "timedelta"
+    ]
+  },
+  "Day 16": {
+    "topic": "Math and Random Modules",
+    "objectives": [
+      "Use math functions",
+      "Generate random numbers"
+    ],
+    "concepts": [
+      "math functions",
+      "random module",
+      "statistics module"
+    ]
+  },
+  "Day 17": {
+    "topic": "Advanced Functions",
+    "objectives": [
+      "Use default, keyword, and variable-length arguments",
+      "Understand closures and decorators"
+    ],
+    "concepts": [
+      "*args, **kwargs",
+      "closures",
+      "decorators"
+    ]
+  },
+  "Day 18": {
+    "topic": "Introduction to OOP",
+    "objectives": [
+      "Understand the basics of classes and objects"
+    ],
+    "concepts": [
+      "class and object",
+      "attributes and methods"
+    ]
+  },
+  "Day 19": {
+    "topic": "Class Constructors and Self",
+    "objectives": [
+      "Use `__init__` constructor",
+      "Understand `self` and instance variables"
+    ],
+    "concepts": [
+      "__init__ method",
+      "self keyword",
+      "instance attributes"
+    ]
+  },
+  "Day 20": {
+    "topic": "Instance and Class Methods",
+    "objectives": [
+      "Differentiate between instance and class methods",
+      "Use `@classmethod` and `@staticmethod`"
+    ],
+    "concepts": [
+      "instance methods",
+      "classmethod and staticmethod"
+    ]
+  },
+  "Day 21": {
+    "topic": "Encapsulation",
+    "objectives": [
+      "Understand public, private, and protected members",
+      "Use getter and setter methods"
+    ],
+    "concepts": [
+      "access modifiers",
+      "property() function",
+      "getter/setter methods"
+    ]
+  },
+  "Day 22": {
+    "topic": "Inheritance",
+    "objectives": [
+      "Understand base and derived classes",
+      "Use `super()` and method overriding"
+    ],
+    "concepts": [
+      "single and multilevel inheritance",
+      "super()",
+      "method overriding"
+    ]
+  },
+  "Day 23": {
+    "topic": "Polymorphism",
+    "objectives": [
+      "Understand polymorphism in Python",
+      "Implement duck typing and method overloading"
+    ],
+    "concepts": [
+      "method overloading",
+      "method overriding",
+      "duck typing"
+    ]
+  },
+  "Day 24": {
+    "topic": "Special Methods in Classes",
+    "objectives": [
+      "Use magic methods like `__str__`, `__repr__`, etc."
+    ],
+    "concepts": [
+      "__str__ and __repr__",
+      "__len__, __eq__, __lt__"
+    ]
+  },
+  "Day 25": {
+    "topic": "Advanced OOP Concepts",
+    "objectives": [
+      "Use class relationships (composition, aggregation)",
+      "Understand MRO (Method Resolution Order)"
+    ],
+    "concepts": [
+      "composition",
+      "aggregation",
+      "MRO"
+    ]
+  },
+  "Day 26": {
+    "topic": "Working with JSON",
+    "objectives": [
+      "Read and write JSON files",
+      "Use `json` module"
+    ],
+    "concepts": [
+      "json.load() and json.dump()",
+      "json.loads() and json.dumps()"
+    ]
+  },
+  "Day 27": {
+    "topic": "Unit Testing in Python",
+    "objectives": [
+      "Write basic tests using `unittest`",
+      "Understand assertions"
+    ],
+    "concepts": [
+      "unittest basics",
+      "assertEqual, assertTrue, assertRaises"
+    ]
+  },
+  "Day 28": {
+    "topic": "Virtual Environments and Pip",
+    "objectives": [
+      "Create virtual environments",
+      "Install packages using `pip`"
+    ],
+    "concepts": [
+      "venv",
+      "pip install and freeze",
+      "requirements.txt"
+    ]
+  },
+  "Day 29": {
+    "topic": "Mini Project Day 1",
+    "objectives": [
+      "Start a Python project using OOP and modules"
+    ],
+    "concepts": [
+      "project structure",
+      "planning logic",
+      "modular coding"
+    ]
+  },
+  "Day 30": {
+    "topic": "Mini Project Day 2 & Review",
+    "objectives": [
+      "Complete your project",
+      "Review and improve your code"
+    ],
+    "concepts": [
+      "refactoring",
+      "testing",
+      "presentation"
+    ]
+  }
+}
