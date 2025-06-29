@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+pydantic
+fastapi
+uvicorn
+tiktoken
+streamlit-option-menu
+fastapi
+uvicorn
+

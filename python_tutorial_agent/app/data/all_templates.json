@@ -1,0 +1,650 @@
+{
+  "Day 1": [
+    {
+      "title": "Practice: Syntax basics",
+      "description": "Write a Python program that demonstrates your understanding of **Syntax basics**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Syntax basics\n# TODO: Add your logic here for syntax basics",
+      "difficulty": "Beginner",
+      "day": "Day 1"
+    },
+    {
+      "title": "Practice: Comments",
+      "description": "Write a Python program that demonstrates your understanding of **Comments**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Comments\n# TODO: Add your logic here for comments",
+      "difficulty": "Beginner",
+      "day": "Day 1"
+    },
+    {
+      "title": "Practice: Print function",
+      "description": "Write a Python program that demonstrates your understanding of **Print function**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Print function\n# TODO: Add your logic here for print function",
+      "difficulty": "Beginner",
+      "day": "Day 1"
+    }
+  ],
+  "Day 2": [
+    {
+      "title": "Practice: int, float, str, bool",
+      "description": "Write a Python program that demonstrates your understanding of **int, float, str, bool**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for int, float, str, bool\n# TODO: Add your logic here for int, float, str, bool",
+      "difficulty": "Beginner",
+      "day": "Day 2"
+    },
+    {
+      "title": "Practice: type() and isinstance()",
+      "description": "Write a Python program that demonstrates your understanding of **type() and isinstance()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for type() and isinstance()\n# TODO: Add your logic here for type() and isinstance()",
+      "difficulty": "Beginner",
+      "day": "Day 2"
+    }
+  ],
+  "Day 3": [
+    {
+      "title": "Practice: Arithmetic operators",
+      "description": "Write a Python program that demonstrates your understanding of **Arithmetic operators**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Arithmetic operators\n# TODO: Add your logic here for arithmetic operators",
+      "difficulty": "Beginner",
+      "day": "Day 3"
+    },
+    {
+      "title": "Practice: Comparison operators",
+      "description": "Write a Python program that demonstrates your understanding of **Comparison operators**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Comparison operators\n# TODO: Add your logic here for comparison operators",
+      "difficulty": "Beginner",
+      "day": "Day 3"
+    },
+    {
+      "title": "Practice: Logical operators",
+      "description": "Write a Python program that demonstrates your understanding of **Logical operators**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for Logical operators\n# TODO: Add your logic here for logical operators",
+      "difficulty": "Beginner",
+      "day": "Day 3"
+    }
+  ],
+  "Day 4": [
+    {
+      "title": "Practice: if-else statements",
+      "description": "Write a Python program that demonstrates your understanding of **if-else statements**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for if-else statements\n# TODO: Add your logic here for if-else statements",
+      "difficulty": "Beginner",
+      "day": "Day 4"
+    },
+    {
+      "title": "Practice: nested conditions",
+      "description": "Write a Python program that demonstrates your understanding of **nested conditions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for nested conditions\n# TODO: Add your logic here for nested conditions",
+      "difficulty": "Beginner",
+      "day": "Day 4"
+    },
+    {
+      "title": "Practice: boolean expressions",
+      "description": "Write a Python program that demonstrates your understanding of **boolean expressions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for boolean expressions\n# TODO: Add your logic here for boolean expressions",
+      "difficulty": "Beginner",
+      "day": "Day 4"
+    }
+  ],
+  "Day 5": [
+    {
+      "title": "Practice: for loops",
+      "description": "Write a Python program that demonstrates your understanding of **for loops**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for for loops\n# TODO: Add your logic here for for loops",
+      "difficulty": "Beginner",
+      "day": "Day 5"
+    },
+    {
+      "title": "Practice: while loops",
+      "description": "Write a Python program that demonstrates your understanding of **while loops**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for while loops\n# TODO: Add your logic here for while loops",
+      "difficulty": "Beginner",
+      "day": "Day 5"
+    },
+    {
+      "title": "Practice: break and continue",
+      "description": "Write a Python program that demonstrates your understanding of **break and continue**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for break and continue\n# TODO: Add your logic here for break and continue",
+      "difficulty": "Beginner",
+      "day": "Day 5"
+    }
+  ],
+  "Day 6": [
+    {
+      "title": "Practice: string indexing",
+      "description": "Write a Python program that demonstrates your understanding of **string indexing**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for string indexing\n# TODO: Add your logic here for string indexing",
+      "difficulty": "Beginner",
+      "day": "Day 6"
+    },
+    {
+      "title": "Practice: string slicing",
+      "description": "Write a Python program that demonstrates your understanding of **string slicing**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for string slicing\n# TODO: Add your logic here for string slicing",
+      "difficulty": "Beginner",
+      "day": "Day 6"
+    },
+    {
+      "title": "Practice: format() and f-strings",
+      "description": "Write a Python program that demonstrates your understanding of **format() and f-strings**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for format() and f-strings\n# TODO: Add your logic here for format() and f-strings",
+      "difficulty": "Beginner",
+      "day": "Day 6"
+    }
+  ],
+  "Day 7": [
+    {
+      "title": "Practice: list operations",
+      "description": "Write a Python program that demonstrates your understanding of **list operations**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for list operations\n# TODO: Add your logic here for list operations",
+      "difficulty": "Beginner",
+      "day": "Day 7"
+    },
+    {
+      "title": "Practice: tuple immutability",
+      "description": "Write a Python program that demonstrates your understanding of **tuple immutability**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for tuple immutability\n# TODO: Add your logic here for tuple immutability",
+      "difficulty": "Beginner",
+      "day": "Day 7"
+    },
+    {
+      "title": "Practice: list methods",
+      "description": "Write a Python program that demonstrates your understanding of **list methods**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for list methods\n# TODO: Add your logic here for list methods",
+      "difficulty": "Beginner",
+      "day": "Day 7"
+    }
+  ],
+  "Day 8": [
+    {
+      "title": "Practice: dictionary keys and values",
+      "description": "Write a Python program that demonstrates your understanding of **dictionary keys and values**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for dictionary keys and values\n# TODO: Add your logic here for dictionary keys and values",
+      "difficulty": "Beginner",
+      "day": "Day 8"
+    },
+    {
+      "title": "Practice: set operations",
+      "description": "Write a Python program that demonstrates your understanding of **set operations**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for set operations\n# TODO: Add your logic here for set operations",
+      "difficulty": "Beginner",
+      "day": "Day 8"
+    },
+    {
+      "title": "Practice: dictionary methods",
+      "description": "Write a Python program that demonstrates your understanding of **dictionary methods**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for dictionary methods\n# TODO: Add your logic here for dictionary methods",
+      "difficulty": "Beginner",
+      "day": "Day 8"
+    }
+  ],
+  "Day 9": [
+    {
+      "title": "Practice: def and return",
+      "description": "Write a Python program that demonstrates your understanding of **def and return**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for def and return\n# TODO: Add your logic here for def and return",
+      "difficulty": "Beginner",
+      "day": "Day 9"
+    },
+    {
+      "title": "Practice: parameters and arguments",
+      "description": "Write a Python program that demonstrates your understanding of **parameters and arguments**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for parameters and arguments\n# TODO: Add your logic here for parameters and arguments",
+      "difficulty": "Beginner",
+      "day": "Day 9"
+    },
+    {
+      "title": "Practice: local vs global scope",
+      "description": "Write a Python program that demonstrates your understanding of **local vs global scope**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for local vs global scope\n# TODO: Add your logic here for local vs global scope",
+      "difficulty": "Beginner",
+      "day": "Day 9"
+    }
+  ],
+  "Day 10": [
+    {
+      "title": "Practice: lambda",
+      "description": "Write a Python program that demonstrates your understanding of **lambda**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for lambda\n# TODO: Add your logic here for lambda",
+      "difficulty": "Beginner",
+      "day": "Day 10"
+    },
+    {
+      "title": "Practice: map, filter, reduce",
+      "description": "Write a Python program that demonstrates your understanding of **map, filter, reduce**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for map, filter, reduce\n# TODO: Add your logic here for map, filter, reduce",
+      "difficulty": "Beginner",
+      "day": "Day 10"
+    },
+    {
+      "title": "Practice: any, all, zip",
+      "description": "Write a Python program that demonstrates your understanding of **any, all, zip**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for any, all, zip\n# TODO: Add your logic here for any, all, zip",
+      "difficulty": "Beginner",
+      "day": "Day 10"
+    }
+  ],
+  "Day 11": [
+    {
+      "title": "Practice: import, from-import",
+      "description": "Write a Python program that demonstrates your understanding of **import, from-import**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for import, from-import\n# TODO: Add your logic here for import, from-import",
+      "difficulty": "Beginner",
+      "day": "Day 11"
+    },
+    {
+      "title": "Practice: dir() and help()",
+      "description": "Write a Python program that demonstrates your understanding of **dir() and help()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for dir() and help()\n# TODO: Add your logic here for dir() and help()",
+      "difficulty": "Beginner",
+      "day": "Day 11"
+    },
+    {
+      "title": "Practice: pip basics",
+      "description": "Write a Python program that demonstrates your understanding of **pip basics**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for pip basics\n# TODO: Add your logic here for pip basics",
+      "difficulty": "Beginner",
+      "day": "Day 11"
+    }
+  ],
+  "Day 12": [
+    {
+      "title": "Practice: open(), read(), write()",
+      "description": "Write a Python program that demonstrates your understanding of **open(), read(), write()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for open(), read(), write()\n# TODO: Add your logic here for open(), read(), write()",
+      "difficulty": "Beginner",
+      "day": "Day 12"
+    },
+    {
+      "title": "Practice: with statement",
+      "description": "Write a Python program that demonstrates your understanding of **with statement**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for with statement\n# TODO: Add your logic here for with statement",
+      "difficulty": "Beginner",
+      "day": "Day 12"
+    },
+    {
+      "title": "Practice: file modes",
+      "description": "Write a Python program that demonstrates your understanding of **file modes**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for file modes\n# TODO: Add your logic here for file modes",
+      "difficulty": "Beginner",
+      "day": "Day 12"
+    }
+  ],
+  "Day 13": [
+    {
+      "title": "Practice: try-except",
+      "description": "Write a Python program that demonstrates your understanding of **try-except**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for try-except\n# TODO: Add your logic here for try-except",
+      "difficulty": "Beginner",
+      "day": "Day 13"
+    },
+    {
+      "title": "Practice: finally",
+      "description": "Write a Python program that demonstrates your understanding of **finally**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for finally\n# TODO: Add your logic here for finally",
+      "difficulty": "Beginner",
+      "day": "Day 13"
+    },
+    {
+      "title": "Practice: custom exceptions",
+      "description": "Write a Python program that demonstrates your understanding of **custom exceptions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for custom exceptions\n# TODO: Add your logic here for custom exceptions",
+      "difficulty": "Beginner",
+      "day": "Day 13"
+    }
+  ],
+  "Day 14": [
+    {
+      "title": "Practice: list comprehension",
+      "description": "Write a Python program that demonstrates your understanding of **list comprehension**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for list comprehension\n# TODO: Add your logic here for list comprehension",
+      "difficulty": "Beginner",
+      "day": "Day 14"
+    },
+    {
+      "title": "Practice: dict and set comprehensions",
+      "description": "Write a Python program that demonstrates your understanding of **dict and set comprehensions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for dict and set comprehensions\n# TODO: Add your logic here for dict and set comprehensions",
+      "difficulty": "Beginner",
+      "day": "Day 14"
+    },
+    {
+      "title": "Practice: nested comprehensions",
+      "description": "Write a Python program that demonstrates your understanding of **nested comprehensions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for nested comprehensions\n# TODO: Add your logic here for nested comprehensions",
+      "difficulty": "Beginner",
+      "day": "Day 14"
+    }
+  ],
+  "Day 15": [
+    {
+      "title": "Practice: datetime module",
+      "description": "Write a Python program that demonstrates your understanding of **datetime module**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for datetime module\n# TODO: Add your logic here for datetime module",
+      "difficulty": "Beginner",
+      "day": "Day 15"
+    },
+    {
+      "title": "Practice: strftime and strptime",
+      "description": "Write a Python program that demonstrates your understanding of **strftime and strptime**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for strftime and strptime\n# TODO: Add your logic here for strftime and strptime",
+      "difficulty": "Beginner",
+      "day": "Day 15"
+    },
+    {
+      "title": "Practice: timedelta",
+      "description": "Write a Python program that demonstrates your understanding of **timedelta**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for timedelta\n# TODO: Add your logic here for timedelta",
+      "difficulty": "Beginner",
+      "day": "Day 15"
+    }
+  ],
+  "Day 16": [
+    {
+      "title": "Practice: math functions",
+      "description": "Write a Python program that demonstrates your understanding of **math functions**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for math functions\n# TODO: Add your logic here for math functions",
+      "difficulty": "Beginner",
+      "day": "Day 16"
+    },
+    {
+      "title": "Practice: random module",
+      "description": "Write a Python program that demonstrates your understanding of **random module**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for random module\n# TODO: Add your logic here for random module",
+      "difficulty": "Beginner",
+      "day": "Day 16"
+    },
+    {
+      "title": "Practice: statistics module",
+      "description": "Write a Python program that demonstrates your understanding of **statistics module**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for statistics module\n# TODO: Add your logic here for statistics module",
+      "difficulty": "Beginner",
+      "day": "Day 16"
+    }
+  ],
+  "Day 17": [
+    {
+      "title": "Practice: *args, **kwargs",
+      "description": "Write a Python program that demonstrates your understanding of ***args, **kwargs**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for *args, **kwargs\n# TODO: Add your logic here for *args, **kwargs",
+      "difficulty": "Beginner",
+      "day": "Day 17"
+    },
+    {
+      "title": "Practice: closures",
+      "description": "Write a Python program that demonstrates your understanding of **closures**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for closures\n# TODO: Add your logic here for closures",
+      "difficulty": "Beginner",
+      "day": "Day 17"
+    },
+    {
+      "title": "Practice: decorators",
+      "description": "Write a Python program that demonstrates your understanding of **decorators**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for decorators\n# TODO: Add your logic here for decorators",
+      "difficulty": "Beginner",
+      "day": "Day 17"
+    }
+  ],
+  "Day 18": [
+    {
+      "title": "Practice: class and object",
+      "description": "Write a Python program that demonstrates your understanding of **class and object**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for class and object\n# TODO: Add your logic here for class and object",
+      "difficulty": "Beginner",
+      "day": "Day 18"
+    },
+    {
+      "title": "Practice: attributes and methods",
+      "description": "Write a Python program that demonstrates your understanding of **attributes and methods**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for attributes and methods\n# TODO: Add your logic here for attributes and methods",
+      "difficulty": "Beginner",
+      "day": "Day 18"
+    }
+  ],
+  "Day 19": [
+    {
+      "title": "Practice: __init__ method",
+      "description": "Write a Python program that demonstrates your understanding of **__init__ method**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for __init__ method\n# TODO: Add your logic here for __init__ method",
+      "difficulty": "Beginner",
+      "day": "Day 19"
+    },
+    {
+      "title": "Practice: self keyword",
+      "description": "Write a Python program that demonstrates your understanding of **self keyword**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for self keyword\n# TODO: Add your logic here for self keyword",
+      "difficulty": "Beginner",
+      "day": "Day 19"
+    },
+    {
+      "title": "Practice: instance attributes",
+      "description": "Write a Python program that demonstrates your understanding of **instance attributes**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for instance attributes\n# TODO: Add your logic here for instance attributes",
+      "difficulty": "Beginner",
+      "day": "Day 19"
+    }
+  ],
+  "Day 20": [
+    {
+      "title": "Practice: instance methods",
+      "description": "Write a Python program that demonstrates your understanding of **instance methods**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for instance methods\n# TODO: Add your logic here for instance methods",
+      "difficulty": "Beginner",
+      "day": "Day 20"
+    },
+    {
+      "title": "Practice: classmethod and staticmethod",
+      "description": "Write a Python program that demonstrates your understanding of **classmethod and staticmethod**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for classmethod and staticmethod\n# TODO: Add your logic here for classmethod and staticmethod",
+      "difficulty": "Beginner",
+      "day": "Day 20"
+    }
+  ],
+  "Day 21": [
+    {
+      "title": "Practice: access modifiers",
+      "description": "Write a Python program that demonstrates your understanding of **access modifiers**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for access modifiers\n# TODO: Add your logic here for access modifiers",
+      "difficulty": "Beginner",
+      "day": "Day 21"
+    },
+    {
+      "title": "Practice: property() function",
+      "description": "Write a Python program that demonstrates your understanding of **property() function**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for property() function\n# TODO: Add your logic here for property() function",
+      "difficulty": "Beginner",
+      "day": "Day 21"
+    },
+    {
+      "title": "Practice: getter/setter methods",
+      "description": "Write a Python program that demonstrates your understanding of **getter/setter methods**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for getter/setter methods\n# TODO: Add your logic here for getter/setter methods",
+      "difficulty": "Beginner",
+      "day": "Day 21"
+    }
+  ],
+  "Day 22": [
+    {
+      "title": "Practice: single and multilevel inheritance",
+      "description": "Write a Python program that demonstrates your understanding of **single and multilevel inheritance**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for single and multilevel inheritance\n# TODO: Add your logic here for single and multilevel inheritance",
+      "difficulty": "Beginner",
+      "day": "Day 22"
+    },
+    {
+      "title": "Practice: super()",
+      "description": "Write a Python program that demonstrates your understanding of **super()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for super()\n# TODO: Add your logic here for super()",
+      "difficulty": "Beginner",
+      "day": "Day 22"
+    },
+    {
+      "title": "Practice: method overriding",
+      "description": "Write a Python program that demonstrates your understanding of **method overriding**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for method overriding\n# TODO: Add your logic here for method overriding",
+      "difficulty": "Beginner",
+      "day": "Day 22"
+    }
+  ],
+  "Day 23": [
+    {
+      "title": "Practice: method overloading",
+      "description": "Write a Python program that demonstrates your understanding of **method overloading**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for method overloading\n# TODO: Add your logic here for method overloading",
+      "difficulty": "Beginner",
+      "day": "Day 23"
+    },
+    {
+      "title": "Practice: method overriding",
+      "description": "Write a Python program that demonstrates your understanding of **method overriding**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for method overriding\n# TODO: Add your logic here for method overriding",
+      "difficulty": "Beginner",
+      "day": "Day 23"
+    },
+    {
+      "title": "Practice: duck typing",
+      "description": "Write a Python program that demonstrates your understanding of **duck typing**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for duck typing\n# TODO: Add your logic here for duck typing",
+      "difficulty": "Beginner",
+      "day": "Day 23"
+    }
+  ],
+  "Day 24": [
+    {
+      "title": "Practice: __str__ and __repr__",
+      "description": "Write a Python program that demonstrates your understanding of **__str__ and __repr__**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for __str__ and __repr__\n# TODO: Add your logic here for __str__ and __repr__",
+      "difficulty": "Beginner",
+      "day": "Day 24"
+    },
+    {
+      "title": "Practice: __len__, __eq__, __lt__",
+      "description": "Write a Python program that demonstrates your understanding of **__len__, __eq__, __lt__**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for __len__, __eq__, __lt__\n# TODO: Add your logic here for __len__, __eq__, __lt__",
+      "difficulty": "Beginner",
+      "day": "Day 24"
+    }
+  ],
+  "Day 25": [
+    {
+      "title": "Practice: composition",
+      "description": "Write a Python program that demonstrates your understanding of **composition**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for composition\n# TODO: Add your logic here for composition",
+      "difficulty": "Beginner",
+      "day": "Day 25"
+    },
+    {
+      "title": "Practice: aggregation",
+      "description": "Write a Python program that demonstrates your understanding of **aggregation**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for aggregation\n# TODO: Add your logic here for aggregation",
+      "difficulty": "Beginner",
+      "day": "Day 25"
+    },
+    {
+      "title": "Practice: MRO",
+      "description": "Write a Python program that demonstrates your understanding of **MRO**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for MRO\n# TODO: Add your logic here for mro",
+      "difficulty": "Beginner",
+      "day": "Day 25"
+    }
+  ],
+  "Day 26": [
+    {
+      "title": "Practice: json.load() and json.dump()",
+      "description": "Write a Python program that demonstrates your understanding of **json.load() and json.dump()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for json.load() and json.dump()\n# TODO: Add your logic here for json.load() and json.dump()",
+      "difficulty": "Beginner",
+      "day": "Day 26"
+    },
+    {
+      "title": "Practice: json.loads() and json.dumps()",
+      "description": "Write a Python program that demonstrates your understanding of **json.loads() and json.dumps()**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for json.loads() and json.dumps()\n# TODO: Add your logic here for json.loads() and json.dumps()",
+      "difficulty": "Beginner",
+      "day": "Day 26"
+    }
+  ],
+  "Day 27": [
+    {
+      "title": "Practice: unittest basics",
+      "description": "Write a Python program that demonstrates your understanding of **unittest basics**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for unittest basics\n# TODO: Add your logic here for unittest basics",
+      "difficulty": "Beginner",
+      "day": "Day 27"
+    },
+    {
+      "title": "Practice: assertEqual, assertTrue, assertRaises",
+      "description": "Write a Python program that demonstrates your understanding of **assertEqual, assertTrue, assertRaises**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for assertEqual, assertTrue, assertRaises\n# TODO: Add your logic here for assertequal, asserttrue, assertraises",
+      "difficulty": "Beginner",
+      "day": "Day 27"
+    }
+  ],
+  "Day 28": [
+    {
+      "title": "Practice: venv",
+      "description": "Write a Python program that demonstrates your understanding of **venv**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for venv\n# TODO: Add your logic here for venv",
+      "difficulty": "Beginner",
+      "day": "Day 28"
+    },
+    {
+      "title": "Practice: pip install and freeze",
+      "description": "Write a Python program that demonstrates your understanding of **pip install and freeze**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for pip install and freeze\n# TODO: Add your logic here for pip install and freeze",
+      "difficulty": "Beginner",
+      "day": "Day 28"
+    },
+    {
+      "title": "Practice: requirements.txt",
+      "description": "Write a Python program that demonstrates your understanding of **requirements.txt**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for requirements.txt\n# TODO: Add your logic here for requirements.txt",
+      "difficulty": "Beginner",
+      "day": "Day 28"
+    }
+  ],
+  "Day 29": [
+    {
+      "title": "Practice: project structure",
+      "description": "Write a Python program that demonstrates your understanding of **project structure**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for project structure\n# TODO: Add your logic here for project structure",
+      "difficulty": "Beginner",
+      "day": "Day 29"
+    },
+    {
+      "title": "Practice: planning logic",
+      "description": "Write a Python program that demonstrates your understanding of **planning logic**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for planning logic\n# TODO: Add your logic here for planning logic",
+      "difficulty": "Beginner",
+      "day": "Day 29"
+    },
+    {
+      "title": "Practice: modular coding",
+      "description": "Write a Python program that demonstrates your understanding of **modular coding**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for modular coding\n# TODO: Add your logic here for modular coding",
+      "difficulty": "Beginner",
+      "day": "Day 29"
+    }
+  ],
+  "Day 30": [
+    {
+      "title": "Practice: refactoring",
+      "description": "Write a Python program that demonstrates your understanding of **refactoring**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for refactoring\n# TODO: Add your logic here for refactoring",
+      "difficulty": "Beginner",
+      "day": "Day 30"
+    },
+    {
+      "title": "Practice: testing",
+      "description": "Write a Python program that demonstrates your understanding of **testing**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for testing\n# TODO: Add your logic here for testing",
+      "difficulty": "Beginner",
+      "day": "Day 30"
+    },
+    {
+      "title": "Practice: presentation",
+      "description": "Write a Python program that demonstrates your understanding of **presentation**. Be sure to explain the concept in comments and try different examples.",
+      "sample_solution": "# Sample code for presentation\n# TODO: Add your logic here for presentation",
+      "difficulty": "Beginner",
+      "day": "Day 30"
+    }
+  ]
+}

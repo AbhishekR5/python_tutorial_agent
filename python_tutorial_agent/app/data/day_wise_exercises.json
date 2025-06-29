@@ -1,0 +1,108 @@
+{
+  "Day 1": [
+    {
+      "title": "Exercise on Comments #1",
+      "description": "Add comments to explain what a variable does in your program.",
+      "sample_solution": "x = 10  # This variable stores the user age\nprint(x)"
+    },
+    {
+      "title": "Exercise on Comments #2",
+      "description": "Write a program with inline comments explaining each step.",
+      "sample_solution": "# This program adds two numbers\na = 5\nb = 10\nprint(a + b)"
+    },
+    {
+      "title": "Exercise on Syntax basics #3",
+      "description": "Write a Python program that prints your name, age, and favorite language.",
+      "sample_solution": "print('Name: John')\nprint('Age: 25')\nprint('Language: Python')"
+    },
+    {
+      "title": "Exercise on Syntax basics #4",
+      "description": "Write a program that prints 'Hello, Python!' three times.",
+      "sample_solution": "for _ in range(3): print('Hello, Python!')"
+    },
+    {
+      "title": "Exercise on Syntax basics #5",
+      "description": "Write a script that prints the result of 3 + 5.",
+      "sample_solution": "print(3 + 5)"
+    },
+    {
+      "title": "Exercise on Comments #6",
+      "description": "Add a comment at the top of your code with your name and date.",
+      "sample_solution": "# Author: You | Date: Today\nprint('Starting program')"
+    },
+    {
+      "title": "Exercise on Print function #7",
+      "description": "Print a triangle pattern using the `print()` function.",
+      "sample_solution": "for i in range(1, 6): print('*' * i)"
+    },
+    {
+      "title": "Exercise on Print function #8",
+      "description": "Print a formatted receipt using tabs and newlines.",
+      "sample_solution": "print('Item\\tQty\\tPrice')\nprint('Apple\\t2\\t$3')\nprint('Total:\\t\\t$6')"
+    },
+    {
+      "title": "Exercise on Comments #9",
+      "description": "Write a script that includes a multiline comment describing the script.",
+      "sample_solution": "\"\"\"\nThis script calculates the square of a number\n\"\"\"\nx = 4\nprint(x**2)"
+    },
+    {
+      "title": "Exercise on Print function #10",
+      "description": "Print a multiplication table of 5.",
+      "sample_solution": "for i in range(1, 11): print(f'5 x {i} = {5*i}')"
+    },
+    {
+      "title": "Exercise on Comments #11",
+      "description": "Create a Python script with useless code and comment it out.",
+      "sample_solution": "# print('This line is commented out')\nprint('This line runs')"
+    },
+    {
+      "title": "Exercise on Syntax basics #12",
+      "description": "Write a Python script to swap two variables.",
+      "sample_solution": "a, b = 5, 10\na, b = b, a\nprint(a, b)"
+    },
+    {
+      "title": "Exercise on Print function #13",
+      "description": "Use `print()` to display your name in a box of asterisks.",
+      "sample_solution": "print('************')\nprint('* John Doe *')\nprint('************')"
+    },
+    {
+      "title": "Exercise on Syntax basics #14",
+      "description": "Create a program that prints a line with both single and double quotes.",
+      "sample_solution": "print(\"He said, 'Python is fun!'\")"
+    },
+    {
+      "title": "Exercise on Print function #15",
+      "description": "Print the output of multiple lines using newline characters.",
+      "sample_solution": "print('Line 1\\nLine 2\\nLine 3')"
+    }
+  ],
+  "Day 2": [],
+  "Day 3": [],
+  "Day 4": [],
+  "Day 5": [],
+  "Day 6": [],
+  "Day 7": [],
+  "Day 8": [],
+  "Day 9": [],
+  "Day 10": [],
+  "Day 11": [],
+  "Day 12": [],
+  "Day 13": [],
+  "Day 14": [],
+  "Day 15": [],
+  "Day 16": [],
+  "Day 17": [],
+  "Day 18": [],
+  "Day 19": [],
+  "Day 20": [],
+  "Day 21": [],
+  "Day 22": [],
+  "Day 23": [],
+  "Day 24": [],
+  "Day 25": [],
+  "Day 26": [],
+  "Day 27": [],
+  "Day 28": [],
+  "Day 29": [],
+  "Day 30": []
+}
